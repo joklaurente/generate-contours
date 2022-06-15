@@ -7,6 +7,9 @@
 docker pull mundialis/grass-py3-pdal:stable-alpine
 ```
 
+## Copying the point cloud data
+Copy `Atami_beforeDisaster_1.laz` and paste it inside the "data" folder.
+
 ## Running the application
 Install the packages 
 ```
